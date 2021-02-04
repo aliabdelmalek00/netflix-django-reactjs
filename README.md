@@ -23,7 +23,6 @@ cd:\Desktop\Netflix> npx create-react-app frontend
 cd:\Desktop\Netflix\frontend> npm start
 ```
 
-#### this a youtube video understand the frontend part with react => [Netflix clone using reactjs](https://www.youtube.com/watch?v=XtMThy8QKqU)
 
   
  
